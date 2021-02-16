@@ -17,11 +17,10 @@ The Warden's submission should include provisional classification. Their report 
 The measurement of risk is partially based on the rating submitted by the Warden, but is also subject to the judge's discretion. Should the judge determine a particular bug to be a lower risk than the Warden has rated it, this judgement will include a thorough description to justify this measurement.
 
 ### Risk Categories
-Bugs are divided into 4 risk categories:   
+Bugs are divided into 3 risk categories:   
 - Low Risk  
 - Medium Risk  
 - High Risk    
-- Critical Risk
 
 ## Estimating Likelihood
 The first set of factors are related to the threat agent involved. The goal here is to estimate the likelihood of a successful attack by this group of threat agents. Use the worst-case threat agent.
