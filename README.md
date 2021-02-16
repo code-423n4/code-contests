@@ -39,10 +39,11 @@ Since the goal of each participant is to find any security bugs, rather than fin
 ## Scoring
 The scoring system has two primary goals: rewarding contestants for finding unique bugs and making the contest resistant to sybil attacks. A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination. 
 
-Bugs are divided into 3 classes:   
+Bugs are divided into 4 risk categories:   
 - Low Risk  
 - Medium Risk  
 - High Risk    
+- Critical Risk
 
 ## Rewards  
 Wardens are awarded shares for bugs discovered, and those shares give the owner a pro rata piece of the pot.  
