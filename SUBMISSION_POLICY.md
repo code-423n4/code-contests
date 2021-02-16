@@ -1,4 +1,4 @@
-# C4 Submissions Policy
+# C4 Submission Policy
   
 Code 423nA is an open organization committed to ensuring the security of decentralized protocols and protecting the information of our sponsors and participants. This policy is intended to provide C4 Wardens (security researchers) clear guidelines for participating in code contests (bug bounties) while conducting vulnerability discovery activities. 
   
@@ -24,7 +24,7 @@ Under this policy, code contests covers activities in which you:
   
 - Do not submit a high volume of low-quality reports.
 
-In the event that you encounter a critical vulnerability that the sponsor project would want to know about, even before the end of the contest, immediately notify the C4 team at submission@code423n4.com. 
+In the event that you encounter a critical vulnerability that the sponsor project would want to know about, even before the end of the contest, immediately notify the C4 team at submissions@code423n4.com. 
 
 > Publicly disclosing any information prior to the end of a code competition is grounds for immediate forfeit of award and disqualification from any future C4 events and activities.
 
