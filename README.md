@@ -42,11 +42,10 @@ Since the goal of each participant is to find any vulnerabilities rather than al
 ## Scoring
 The scoring system has two primary goals: rewarding contestants for finding unique bugs and making the contest resistant to [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack). A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination.
 
-Bugs are divided into 4 risk categories:   
-- Low Risk  
-- Medium Risk  
-- High Risk    
-- Critical Risk
+Bugs are divided into three risk categories:   
+- Low
+- Medium
+- High
 
 ## Rewards  
 Wardens are awarded shares for bugs discovered, and those shares give the owner a pro rata piece of the pot.  
@@ -58,10 +57,7 @@ Medium Risk Bounty Shares
 `3 * (0.9 ^ discovery count) / discovery count`  
 
 High Risk Bounty Shares  
-`10 * (0.9 ^ discovery count) / discovery count`  
-
-Critical Risk Bounty Shares  
-`20 * (0.9 ^ discovery count) / discovery count`  
+`10 * (0.9 ^ discovery count) / discovery count`
   
 At the end of the contest, each bounty share is redeemable for:   
 `Bounty Pot / number of Bounty Shares.`
