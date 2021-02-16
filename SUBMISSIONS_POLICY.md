@@ -7,7 +7,7 @@ The following policy conveys C4's preferences in how to submit discovered vulner
 When participating in C4 code contests, please contact an organizer in the [C4 Discord](https://discord.gg/EY5dvm3evD) and formally submit any bug bounties to submissions@code423n4.com using the official [submission template](SUBMISSION_TEMPLATE.md).
 
 ## Authorization
-If you make a good faith effort to comply with this policy during your security research, we will consider your research to be authorized we will work with you to understand and resolve the issue quickly, and C4 will not recommend or pursue legal action related to your research. Should legal action be initiated by a third party against you for activities that were conducted in accordance with this policy, we will make this authorization known.
+If you make a good faith effort to comply with this policy during your security research, we will consider your research to be authorized. We will work with you to understand and resolve the issue quickly, and C4 will not recommend or pursue legal action related to your research. Should legal action be initiated by a third party against you for activities that were conducted in accordance with this policy, we will make this authorization known.
 
 ## C4 Code Contest Guidelines
 Under this policy, code contests covers activities in which you:  
