@@ -19,7 +19,7 @@ Describe the recommended steps that a project should use to mitigate the bugs or
 
 # BUG 2
 ## Summary
-Summarize your findings for the first bug or vulnerability. 
+Summarize your findings for the second bug or vulnerability. 
 
 ## Risk Rating
 Provide the numerical value for the risk this bug presents, with 1 being low and 4 being critical.
