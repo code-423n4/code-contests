@@ -12,51 +12,111 @@ C4 judges refer to the standard model as presented in the OWASP approach to risk
   
 `Risk = Likelihood * Impact`  
   
-The Warden's submission should include provisional classification. Their report should also include information concerning impact, the threat agent involved, the attack that will be used, the vulnerability involved, and the impact of a successful exploit on the protocol. 
+The Warden's submission should include:
 
-The measurement of risk is partially based on the rating submitted by the Warden, but is also subject to the judge's discretion. Should the judge determine a particular bug to be a lower risk than the Warden has rated it, this judgement will include a thorough description to justify this measurement.
+- proposed risk classification
+- threat agent involved
+- attack method(s) used
+- vulnerabilities involved
+- speculated impact of a successful exploit
+
+The measurement of risk will be partially based on the rating submitted by the Warden, but is also subject to the judge's discretion. Should the judge determine a particular bug to be a lower risk than the Warden rated, this judgement will include a thorough case justifying the downgraded measurement.
 
 ### Risk Categories
+
 Bugs are divided into 3 risk categories:   
-- Low Risk  
-- Medium Risk  
-- High Risk    
+
+- Low 
+- Medium  
+- High
 
 ## Estimating Likelihood
+
 The first set of factors are related to the threat agent involved. The goal here is to estimate the likelihood of a successful attack by this group of threat agents. Use the worst-case threat agent.
 
-Skill Level - How technically skilled is this group of threat agents? No technical skills (1), some technical skills (3), advanced computer user (5), network and programming skills (6), security penetration skills (9),
+**Skill Level** - How technically skilled is this group of threat agents? 
 
-Motive - How motivated is this group of threat agents to find and exploit this vulnerability? Low or no reward (1), possible reward (4), high reward (9)
+- No technical skills **(1)** 
+- Some technical skills **(3)** 
+- Advanced computer user **(5)** 
+- Network and programming skills **(6)** 
+- Security penetration skills **(9)**
 
-Opportunity - What resources and opportunities are required for this group of threat agents to find and exploit this vulnerability? Full access or expensive resources required (0), special access or resources required (4), some access or resources required (7), no access or resources required (9)
+**Motive** - How motivated is this group of threat agents to find and exploit this vulnerability?
 
-Size - How large is this group of threat agents? Developers (2), system administrators (2), intranet users (4), partners (5), authenticated users (6), anonymous Internet users (9)
+- Low or no reward **(1)**
+- Possible reward **(4)**
+- High reward **(9)**
+
+**Opportunity** - What resources and opportunities are required for this group of threat agents to find and exploit this vulnerability? 
+
+- Full access or expensive resources required **(0)**
+- Special access or resources required **(4)**
+- Some access or resources required **(7)**
+- No access or resources required **(9)**
+
+**Size** - How large is this group of threat agents? 
+
+- Developers **(2)**
+- System administrators **(2)**
+- Intranet users **(4)**
+- Partners **(5)**
+- Authenticated users **(6)** 
+- Anonymous Internet users **(9)**
 
 ## Estimating Vulnerability
+
 The next set of factors are related to the vulnerability involved. The goal here is to estimate the likelihood of the particular vulnerability involved being discovered and exploited. Assume the threat agent selected above.
 
-Ease of Discovery - How easy is it for this group of threat agents to discover this vulnerability? Practically impossible (1), difficult (3), easy (7), automated tools available (9)
+**Ease of Discovery** - How easy is it for this group of threat agents to discover this vulnerability? 
 
-Ease of Exploit - How easy is it for this group of threat agents to actually exploit this vulnerability? Theoretical (1), difficult (3), easy (5), automated tools available (9)
+- Practically impossible **(1)**
+- Difficult **(3)**
+- Easy **(7)** 
+- Automated tools available **(9)**
 
-Awareness - How well known is this vulnerability to this group of threat agents? Unknown (1), hidden (4), obvious (6), public knowledge (9)
+**Ease of Exploit** - How easy is it for this group of threat agents to actually exploit this vulnerability? 
+
+- Theoretical **(1)**
+- Difficult **(3)**
+- Easy **(5)**
+- Automated tools available **(9)**
+
+**Awareness** - How well known is this vulnerability to this group of threat agents? 
+
+- Unknown **(1)**
+- Hidden **(4)**
+- Obvious **(6)**
+- Public knowledge **(9)**
 
 ## Estimating Impact
 The goal is to estimate the magnitude of the impact on the system if the vulnerability were to be exploited.  
   
-Loss of Access - How liike is it that a specific requests can be overridden? Minimal non-sensitive data disclosed (2), minimal critical data disclosed (6), extensive non-sensitive data disclosed (6), extensive critical data disclosed (7), all data disclosed (9)  
-  
-Loss of Funds - Can funds be stolen or removed without the knowledge of the owner? This is a critical bug with that warrants the highest rating (9).  
+**Loss of Access** - How likely is it that a specific requests can be overridden? 
 
-Loss of Availability - How much service could be lost and how vital is it? Minimal secondary services interrupted (1), minimal primary services interrupted (5), extensive secondary services interrupted (5), extensive primary services interrupted (7), all services completely lost (9)
+- Minimal non-sensitive data disclosed **(2)**
+- Minimal critical data disclosed **(6)**
+- Extensive non-sensitive data disclosed **(6)** 
+- Extensive critical data disclosed **(7)** 
+- All data disclosed **(9)**
+  
+**Loss of Funds** - Can funds be stolen or removed without the knowledge of the owner? 
+- This is a critical bug with that warrants the highest rating **(9)**.
+
+**Loss of Availability** - How much service could be lost and how vital is it? 
+
+- Minimal secondary services interrupted **(1)**
+- Minimal primary services interrupted **(5)**
+- Extensive secondary services interrupted **(5)**
+- Extensive primary services interrupted **(7)**
+- All services completely lost **(9)**
 
 ### High-Level Considerations
-Malicious Input Handling - Are function parameters passed in a safe and predictable manner?
+**Malicious Input Handling** - Are function parameters passed in a safe and predictable manner?
 
-Arithmetic - Are mathematical operations and variable values handled in a predictable and safe manner?
+**Arithmetic** - Are mathematical operations and variable values handled in a predictable and safe manner?
 
-Gas Limitations - Is the use of gas optimized in a way that prevents unecessary losses?
+**Gas Limitations** - Is the use of gas optimized in a way that prevents unecessary losses?
 
 ## Duplicate Submissions
 Should the same bug be submitted by multiple Wardens, Judges have the discretion to place these bugs into the same bucket, in which case, the award will be shared among those who submitted.
