@@ -1,3 +1,5 @@
+Please submit a report for all bugs you have encountered according to the following template. If you have found multiple bugs, title them numerically. 
+
 # BUG 1
 ## Summary
 Summarize your findings for the first bug or vulnerability. 
