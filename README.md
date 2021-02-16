@@ -37,7 +37,7 @@ C4 can accommodate multiple concurrent audits, and sponsors are free to start an
 Since the goal of each participant is to find any vulnerabilities rather than all of them, C4 code reviews are ideal for highly specialized security researchers interested in demonstrating their skill and creativity. The more rare or novel the identified bug, the higher the reward for finding it.
 
 *Opportunity*
-Because everyone who finds vulnerabilities is compensated from the pool, C4 enables beginners to get paid to learn and to build a reputation within the community as their skills grow.
+**Experienced researchers** can showcase their talent in C4 by focusing their creativity on finding the highest risk and most rewarding exploits. And because everyone who finds vulnerabilities is compensated from the pool, C4 enables **beginners** to get paid to learn and build a reputation within the community as their skills grow.
 
 ## Scoring
 The scoring system has two primary goals: rewarding contestants for finding unique bugs and making the contest resistant to [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack). A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination.
