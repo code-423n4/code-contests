@@ -1,5 +1,9 @@
 Please submit a report for all bugs you have encountered according to the following template. If you have found multiple bugs, title them numerically. 
 
+Handle: The handle you would like to compete under.
+Ethereum Address: The ethereum address you would like your prize to go to (and retroactive token reward should c4 be tokenized later).
+Bio: (optional) If you would like to add a bio, please tell us your background.
+
 # BUG 1
 ## Summary
 Summarize your findings for the first bug or vulnerability. 
