@@ -1,7 +1,11 @@
 # Slingshot Trading Contracts 
 ## v0.0.1
 
-## About 
+## Code Contest Details
+**Pot Size:** $20,000  
+**Start Date:** Feb 17, 1400 UTC  
+**End Date:** Feb 21, 2359 UTC  
+## About The Code 
 As a system, Slingshot aggregates prices for available token pairs
 from a variety of decentralized exchanges and automated market making
 protocols.  
@@ -15,8 +19,4 @@ within its own corresponding module that is stored in the module registry.
 and security. `Slingshot.sol` depends on the Slingshot backend to provide 
 the details related to how a given transaction should be executed.
 
-## Code Contest Details
-Pot Size: $20,000  
-Start Date: Feb 17, 1400 UTC  
-End Date: Feb 21, 2359 UTC  
 
