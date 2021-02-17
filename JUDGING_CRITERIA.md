@@ -145,7 +145,7 @@ How likely is it that a specific requests can be overridden?
 - Minimal critical data disclosed **(6)**
 - Extensive non-sensitive data disclosed **(6)** 
 - Extensive critical data disclosed **(7)** 
-- All data disclosed **(9)**
+- Private keys compromised **(9)**
   
 ## 8.2. Loss of Funds  
 Can funds be transfered without the knowledge of the owner? 
