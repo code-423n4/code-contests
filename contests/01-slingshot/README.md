@@ -1,8 +1,8 @@
 # Code Contest 1: Slingshot Trading Contracts 
 ## Code Contest Details
 **Pot Size:** $20,000  
-**Start Date:** Feb 17, 1400 UTC  
-**End Date:** Feb 21, 2359 UTC  
+**Start Time:** Feb 17, 1400 UTC  
+**Stop Time:** Feb 21, 2359 UTC  
 ## About The Code 
 As a system, Slingshot aggregates prices for available token pairs
 from a variety of decentralized exchanges and automated market making

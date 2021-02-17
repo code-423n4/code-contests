@@ -5,10 +5,10 @@ Each repository contains the source code for a given contest. The pot size, star
 As a reminder, for Wardens participating in code contests, please familiarize yourself with the [submission policy](../SUBMISSION_POLICY.md) prior to participating.
 
 ## TL;DR
-- Turn in your reports at the end of the contest in a single document/email.
+- Turn in your reports within 3 hours prior to the contest stop time in a single document/email.
 - Reports should conform to the [submission template](../SUBMISSION_TEMPLATE.md).
-- Email reports to submissions@code423n4.com.
+- Email final reports to submissions@code423n4.com.
 - Be sure to include your ETH address to receive your share of the pot.
-- Winners will be announced within 3 business days of contest closing date.
+- Winners will be announced within 3 business days of contest stop time.
 - Please do not submit PRs to this repository.
 - Publicly disclosing any discovered bugs or vulnerabilities is grounds for disqualification from all C4 events.
