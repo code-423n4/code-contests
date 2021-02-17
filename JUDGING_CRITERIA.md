@@ -113,11 +113,14 @@ The goal is to estimate the magnitude of the impact on the system if the vulnera
 - All services completely lost **(9)**
 
 ### High-Level Considerations
-**Malicious Input Handling** - Are function parameters passed in a safe and predictable manner?
+**Malicious Input Handling**  
+Are function parameters passed in a safe and predictable manner?
 
-**Arithmetic** - Are mathematical operations and variable values handled in a predictable and safe manner?
+**Arithmetic**  
+Are mathematical operations and variable values handled in a predictable and safe manner?
 
-**Gas Limitations** - Is the use of gas optimized in a way that prevents unecessary losses?
+**Gas Limitations**  
+Is the use of gas optimized in a way that prevents unecessary losses?
 
 ## Duplicate Submissions
 Should the same bug be submitted by multiple Wardens, Judges have the discretion to place these bugs into the same bucket, in which case, the award will be shared among those who submitted.
