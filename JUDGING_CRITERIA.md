@@ -4,10 +4,12 @@ C4 strives to ensure a deliberate and transparent process for reviewing and judg
 
 At the end of a given contest period, all reports will be reviewed and categorized based on criteria. Pending sponsor review, final reports will be added to the appropriate [contests](contests/README.md) directory within this repository. Results will then be shared on the C4 Discord and winners will be announced on the [C4 Twitter](https://twitter.com/code423n4).
 
+:shipit: > Reports are also judged based on grammar, conciseness, and form
 ## Scoring
-The scoring system has two primary goals: rewarding Wardens for finding unique bugs and hardening C4 code contests to sybil attacks. A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination. 
-
-> Reports are also judged based on grammar, conciseness, and format. 
+The scoring system has two primary goals: 
+- Rewarding Wardens for finding unique bugs 
+- Hardening C4 code contests to sybil attacks 
+- Encouraging coordination by incentivizing Wardens to form teams.
 ## Estimating Risk
 C4 judges refer to the standard model as presented in the OWASP approach to risk analysis where:  
   
@@ -15,11 +17,11 @@ C4 judges refer to the standard model as presented in the OWASP approach to risk
   
 The Warden's submission should include:
 
-- proposed risk classification
-- threat agent involved
-- attack method(s) used
-- vulnerabilities involved
-- speculated impact of a successful exploit
+- Proposed risk classification
+- Threat agent involved
+- Attack method(s) used
+- Vulnerabilities involved
+- Speculated impact of a successful exploit
 
 The measurement of risk will be partially based on the rating submitted by the Warden, but is also subject to the judge's discretion. Should the judge determine a particular bug to be a lower risk than the Warden rated, this judgement will include a thorough case justifying the downgraded measurement.
 
@@ -32,10 +34,10 @@ Bugs are divided into 3 risk categories:
 - High
 
 ## Estimating Likelihood
-
 The first set of factors are related to the threat agent involved. The goal here is to estimate the likelihood of a successful attack by this group of threat agents. Use the worst-case threat agent.
 
-**Skill Level** - How technically skilled is this group of threat agents? 
+**Skill Level**  
+How technically skilled is this group of threat agents? 
 
 - No technical skills **(1)** 
 - Some technical skills **(3)** 
@@ -43,20 +45,23 @@ The first set of factors are related to the threat agent involved. The goal here
 - Network and programming skills **(6)** 
 - Security penetration skills **(9)**
 
-**Motive** - How motivated is this group of threat agents to find and exploit this vulnerability?
+**Motive**  
+How motivated is this group of threat agents to find and exploit this vulnerability?
 
 - Low or no reward **(1)**
 - Possible reward **(4)**
 - High reward **(9)**
 
-**Opportunity** - What resources and opportunities are required for this group of threat agents to find and exploit this vulnerability? 
+**Opportunity**  
+What resources and opportunities are required for this group of threat agents to find and exploit this vulnerability? 
 
 - Full access or expensive resources required **(0)**
 - Special access or resources required **(4)**
 - Some access or resources required **(7)**
 - No access or resources required **(9)**
 
-**Size** - How large is this group of threat agents? 
+**Size**  
+How large is this group of threat agents? 
 
 - Developers **(2)**
 - System administrators **(2)**
@@ -66,34 +71,37 @@ The first set of factors are related to the threat agent involved. The goal here
 - Anonymous Internet users **(9)**
 
 ## Estimating Vulnerability
-
 The next set of factors are related to the vulnerability involved. The goal here is to estimate the likelihood of the particular vulnerability involved being discovered and exploited. Assume the threat agent selected above.
 
-**Ease of Discovery** - How easy is it for this group of threat agents to discover this vulnerability? 
+**Ease of Discovery**  
+How easy is it for this group of threat agents to discover this vulnerability? 
 
 - Practically impossible **(1)**
 - Difficult **(3)**
 - Easy **(7)** 
 - Automated tools available **(9)**
 
-**Ease of Exploit** - How easy is it for this group of threat agents to actually exploit this vulnerability? 
+**Ease of Exploit**  
+How easy is it for this group of threat agents to actually exploit this vulnerability? 
 
 - Theoretical **(1)**
 - Difficult **(3)**
 - Easy **(5)**
 - Automated tools available **(9)**
 
-**Awareness** - How well known is this vulnerability to this group of threat agents? 
+**Awareness**  
+How well known is this vulnerability to this group of threat agents? 
 
 - Unknown **(1)**
 - Hidden **(4)**
 - Obvious **(6)**
 - Public knowledge **(9)**
 
-## Estimating Impact
+## Estimating Impact  
 The goal is to estimate the magnitude of the impact on the system if the vulnerability were to be exploited.  
   
-**Loss of Access** - How likely is it that a specific requests can be overridden? 
+**Loss of Access**  
+How likely is it that a specific requests can be overridden? 
 
 - Minimal non-sensitive data disclosed **(2)**
 - Minimal critical data disclosed **(6)**
@@ -101,7 +109,8 @@ The goal is to estimate the magnitude of the impact on the system if the vulnera
 - Extensive critical data disclosed **(7)** 
 - All data disclosed **(9)**
   
-**Loss of Funds** - Can funds be stolen or removed without the knowledge of the owner? 
+**Loss of Funds**  
+- Can funds be stolen or removed without the knowledge of the owner? 
 - This is a critical bug with that warrants the highest rating **(9)**.
 
 **Loss of Availability** - How much service could be lost and how vital is it? 
