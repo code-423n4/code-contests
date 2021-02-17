@@ -22,6 +22,8 @@
   - [8.2. Loss of Funds](#82-loss-of-funds)
   - [8.3. Loss of Availability](#83-loss-of-availability)
 - [9. Credits](#9-credits)
+
+
 # 1. Submission Review Process
 C4 strives to ensure a deliberate and transparent process for reviewing and judging submissions. 
 
