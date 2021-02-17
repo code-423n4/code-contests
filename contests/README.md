@@ -10,4 +10,5 @@ As a reminder, for Wardens participating in code contests, please familiarize yo
 - Email reports to submissions@code423n4.com.
 - Be sure to include your ETH address to receive your share of the pot.
 - Winners will be announced within 3 business days of contest closing date.
-  
+- Please do not submit PRs to this repository.
+- Publicly disclosing any discovered bugs or vulnerabilities is grounds for disqualification from all C4 events.
