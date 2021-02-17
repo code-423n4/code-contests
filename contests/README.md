@@ -1,6 +1,6 @@
 # Code Contests
 
-Each repository contains the source code for a given contest. The pot size, start date, end date, and any other relevent information is provided within the README of each corresponding contest.
+Each repository contains the source code for a given contest. The pot size, start date, end date, and any other relevent information is provided within the `README` for each corresponding contest.
 
 As a reminder, for Wardens participating in code contests, please familiarize yourself with the [submission policy](../SUBMISSION_POLICY.md) prior to participating.
 
