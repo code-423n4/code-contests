@@ -4,7 +4,9 @@ Code 423nA is an open organization committed to ensuring the security of decentr
   
 The following policy conveys C4's preferences in how to submit discovered vulnerabilities to the organization and describes what systems and types of research are covered under this policy, how to share vulnerability reports, and the length of time we expect Wardens to wait prior to publicly disclosing vulnerabilities.  
   
-When participating in C4 code contests, please contact an organizer in the [C4 Discord](https://discord.gg/EY5dvm3evD) and formally submit any bug bounties to submissions@code423n4.com using the official [submission template](SUBMISSION_TEMPLATE.md).
+When participating in C4 code contests, please contact an organizer in the [C4 Discord](https://discord.gg/EY5dvm3evD) and formally submit any bug bounties to submissions@code423n4.com using the official [submission template](SUBMISSION_TEMPLATE.md). 
+
+> Reports should be submitted within 3 hours prior to the stop time for a given contest.
 
 ## Authorization
 If you make a good faith effort to comply with this policy during your security research, we will consider your research to be authorized. We will work with you to understand and resolve the issue quickly, and C4 will not recommend or pursue legal action related to your research. Should legal action be initiated by a third party against you for activities that were conducted in accordance with this policy, we will make this authorization known.
