@@ -59,7 +59,7 @@ The following methods are not authorized means of testing within C4 code contest
 - Network denial of service (DoS or DDoS) tests or other tests that impair access to or damage a system or data.
 
 - Physical testing (e.g. office access, open doors, tailgating), social engineering (e.g. phishing, vishing), or any other non-technical vulnerability testing.
-- 
+
 # 5. :question: Questions
 Questions regarding this policy can be addressed in the `#questions` channel on the [C4 Discord](https://discord.gg/Dr6p5KDCdG). We also invite you to contact us with suggestions for improving this policy.
 
