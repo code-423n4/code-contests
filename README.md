@@ -47,6 +47,8 @@ Bugs are divided into three risk categories:
 - Medium
 - High
 
+For more details regarding scoring, please refer to the [judging criteria](JUDGING_CRITERIA.md) document.
+
 ## Rewards  
 Wardens are awarded shares for bugs discovered, and those shares give the owner a pro rata piece of the pot.  
   
