@@ -2,7 +2,7 @@
 ## Submission Review Process
 C4 strives to ensure a deliberate and transparent process for reviewing and judging submissions. 
 
-At the end of a given contest period, all reports will be reviewed and categorized based on criteria. Pending sponsor review, final reports will be added to the appropriate [contests](contests/README.md) directory within this repository. Results will then be shared on the C4 Discord and winers will be announced on the C4 Twitter page.
+At the end of a given contest period, all reports will be reviewed and categorized based on criteria. Pending sponsor review, final reports will be added to the appropriate [contests](contests/README.md) directory within this repository. Results will then be shared on the C4 Discord and winners will be announced on the C4 Twitter page.
 
 ## Scoring
 The scoring system has two primary goals: rewarding Wardens for finding unique bugs and hardening C4 code contests to sybil attacks. A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination. 
