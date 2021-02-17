@@ -1,6 +1,4 @@
-# Slingshot Trading Contracts 
-## v0.0.1
-
+# Code Contest 1: Slingshot Trading Contracts 
 ## Code Contest Details
 **Pot Size:** $20,000  
 **Start Date:** Feb 17, 1400 UTC  
@@ -9,7 +7,6 @@
 As a system, Slingshot aggregates prices for available token pairs
 from a variety of decentralized exchanges and automated market making
 protocols.  
-
 ### How It Works
 `Slingshot.sol` defines the general logic by which a transaction is 
 handled and executed. The specific logic for each DEX/AMM is defined
