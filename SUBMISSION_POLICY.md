@@ -13,7 +13,7 @@ The following policy conveys C4's preferences in how to submit discovered vulner
   
 When participating in C4 code contests, please contact an organizer in the [C4 Discord](https://discord.gg/EY5dvm3evD) and formally submit any bug bounties to submissions@code423n4.com using the official [submission template](SUBMISSION_TEMPLATE.md). 
 
-> Reports should be submitted within 3 hours prior to the stop time for a given contest.
+> :shipit: Reports should be submitted within 3 hours prior to the stop time for a given contest.
 
 # 2. Code Contest Guidelines
 Under this policy, code contests covers activities in which you:  
