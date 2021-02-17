@@ -103,9 +103,7 @@ Should the same bug be submitted by multiple Wardens, Judges have the discretion
 
 How large is this group of threat agents? 
 
-- Developers **(2)**
-- System administrators **(2)**
-- Intranet users **(4)**
+- [Uninformed users](https://medium.com/cybermiles/i-accidentally-killed-it-and-evaporated-300-million-6b975dc1f76b) **(4)**
 - Partners **(5)**
 - Authenticated users **(6)** 
 - Anonymous Internet users **(9)**
