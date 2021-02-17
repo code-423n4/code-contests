@@ -7,6 +7,7 @@ At the end of a given contest period, all reports will be reviewed and categoriz
 ## Scoring
 The scoring system has two primary goals: rewarding Wardens for finding unique bugs and hardening C4 code contests to sybil attacks. A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination. 
 
+> Reports are also judged based on grammar, conciseness, and format. 
 ## Estimating Risk
 C4 judges refer to the standard model as presented in the OWASP approach to risk analysis where:  
   
