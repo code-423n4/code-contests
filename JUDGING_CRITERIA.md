@@ -4,7 +4,7 @@
 - [2. Duplicate Submissions](#2-duplicate-submissions)
 - [3. Scoring](#3-scoring)
 - [4. High-Level Considerations](#4-high-level-considerations)
-  - [4.1. Malicious Input Handling**](#41-malicious-input-handling)
+  - [4.1. Malicious Input Handling](#41-malicious-input-handling)
   - [4.2. Arithmetic](#42-arithmetic)
   - [4.3. Gas Limitations](#43-gas-limitations)
 - [5. Estimating Risk](#5-estimating-risk)
@@ -41,7 +41,7 @@ The scoring system has two primary goals:
 - Encouraging coordination by incentivizing Wardens to form teams.
 
 # 4. High-Level Considerations
-## 4.1. Malicious Input Handling**  
+## 4.1. Malicious Input Handling  
 Does reported bug affect the abilities of function parameters to be passed in a safe and predictable manner?
 
 ## 4.2. Arithmetic  
