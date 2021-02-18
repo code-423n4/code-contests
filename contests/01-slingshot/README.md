@@ -1,8 +1,18 @@
 # Code Contest 1: Slingshot Trading Contracts 
 ## Code Contest Details
-**Pot Size:** $20,000  
-**Start Time:** Feb 17, 1400 UTC  
-**Stop Time:** Feb 21, 2359 UTC  
+**Pot Size**  
+$20,000  
+    
+**Start Time:**  
+Feb 17, 1400 UTC  
+
+**Stop Time**   
+Feb 21, 2359 UTC  
+  
+**Judge(s)**
+Zak Cole
+[GitHub](https://github.com/zscole)
+
 ## About The Code 
 As a system, Slingshot aggregates prices for available token pairs
 from a variety of decentralized exchanges and automated market making
@@ -20,3 +30,5 @@ and security. `Slingshot.sol` expect parameters to be passed from the Slingshot 
 
 As this code conforms to [NatSpec](https://docs.soliditylang.org/en/v0.5.10/natspec-format.html#natspec-format) formatting specifications, lower level details regarding function can be found as comments within the code itself.
 
+### Sharing Vulnerability/Discovery POC
+Should you identify a vulnerability or bug and have a POC that demonstrates the exploit, please create a private repository and share the POC with the contest Judge. 
