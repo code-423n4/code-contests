@@ -51,7 +51,7 @@ Does reported bug affect mathematical operations or influence the contract's abi
 Does reported bug affect the use of gas? If so, is gas handled in a suboptimal manner, could this result in unecessary losses?
 
 # 5. Estimating Risk
-C4 judges refer to the standard model as presented in the OWASP approach to risk analysis where:  
+C4 Judges refer to the standard model as presented in the OWASP approach to risk analysis where:  
   
 `Risk = Likelihood * Impact`  
   
