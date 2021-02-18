@@ -56,6 +56,8 @@ In order to help us triage and prioritize submissions, please ensure that your r
 # 4. :no_good: Unauthorized Test Methods
 The following methods are not authorized means of testing within C4 code contests:
 
+- Testing exploits on mainnet. 
+
 - Network denial of service (DoS or DDoS) tests or other tests that impair access to or damage a system or data.
 
 - Physical testing (e.g. office access, open doors, tailgating), social engineering (e.g. phishing, vishing), or any other non-technical vulnerability testing.
