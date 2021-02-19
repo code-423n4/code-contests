@@ -71,13 +71,3 @@ High Risk Bounty Shares
   
 At the end of the contest, each bounty share is redeemable for:   
 `Bounty Pot / number of Bounty Shares.`
-
-# Participating In A Code Contest
-## Sponsors
-
-
-## Wardens
-
-## Judges
-Judges are community curated participants selected by C4 organizers. Judges must demonstrate experience in the DeFi and smart contract space. If you qualify and would like to volunteer as a judge, please join the [C4 Discord](https://discord.gg/EY5dvm3evD)and DM an organizer.
-
