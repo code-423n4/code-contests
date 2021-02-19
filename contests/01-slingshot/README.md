@@ -3,7 +3,7 @@
 **Pot Size**  
 $20,000  
     
-**Start Time:**  
+**Start Time**  
 Feb 17, 1400 UTC  
 
 **Stop Time**   
