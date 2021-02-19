@@ -1,14 +1,16 @@
-# Code 423n4
+# Code 423n4 :wolf:	
 ![banner](images/c4-logo.png)
 # :trophy: Code Contests
 C4 code contests leverage a community of security researchers and smart contract experts to provide cost effective and rigorous code reviews in a gamified manner. We aim to create a way for both beginners and exceptional white hats to showcase their skills while making DeFi platforms more secure.
+
+Stay up to date with new contests by [following C4 on Twitter](https://twitter.com/code423n4).
 
 There are three actors in Code 423n4:
 
 **WARDENS**  
 Wardens hunt for bugs in the smart contracts of decentralized protocols.  
   
-To participate in a code contest as a C4 Warden, please check the active contests in the [contests directory](contests/README.md). If you’re looking to join a team or apply for a bounty, pop into the [C4 Discord](https://discord.gg/EY5dvm3evD). You can also stay up to date with new contests by [following C4 on Twitter](https://twitter.com/code423n4).
+To participate in a code contest as a C4 Warden, please check the active contests in the [contests directory](contests/README.md)and join the [C4 Discord](https://discord.gg/EY5dvm3evD) to register or join a team. 
   
 **SPONSORS**  
 Sponsors create bounty pools to attract wardens to their contests.  
