@@ -6,14 +6,20 @@ C4 code contests leverage a community of security researchers and smart contract
 There are three actors in Code 423n4:
 
 **WARDENS**  
-Wardens hunt for bugs in the smart contracts of decentralized protocols.
-
+Wardens hunt for bugs in the smart contracts of decentralized protocols.  
+  
+To participate in a code contest as a C4 Warden, please check the active contests in the [contests directory](contests/README.md). If you’re looking to join a team or apply for a bounty, pop into the [C4 Discord](https://discord.gg/EY5dvm3evD). You can also stay up to date with new contests by [following C4 on Twitter](https://twitter.com/code423n4).
+  
 **SPONSORS**  
-Sponsors create bounty pools to attract wardens to their contests.
-
+Sponsors create bounty pools to attract wardens to their contests.  
+  
+To sponsor a code contest, please refer to the [sponsor document](SPONSOR_INFO.md) for more information.
+  
 **JUDGES**  
-Judges are responsible for allocating bounty pools to wardens based on their performance.
+Judges are responsible for allocating bounty pools to wardens based on their performance.  
 
+To participate in C4 as a Judge, please contact a C4 Organizer in the Discord.
+  
 ### Traditional Audits Are Constrained By:
 *Cost*  
 Auditing firms must be compensated for maintaining their brand, effectively training or recruiting qualified smart contract security experts, and finding clients in need of audits. This operational overhead makes audits expensive and the grueling pace can incentivize auditing firms to cut corners.
@@ -66,10 +72,9 @@ At the end of the contest, each bounty share is redeemable for:
 
 # Participating In A Code Contest
 ## Sponsors
-To sponsor a code contest, please join the [C4 Discord](https://discord.gg/EY5dvm3evD) and DM an organizer.
+
 
 ## Wardens
-To participate in a code contest as a C4 Warden, please check the active contests in the [contests directory](contests/README.md). If you’re looking to join a team or apply for a bounty, pop into the [C4 Discord](https://discord.gg/EY5dvm3evD). You can also stay up to date with new contests by [following C4 on Twitter](https://twitter.com/code423n4).
 
 ## Judges
 Judges are community curated participants selected by C4 organizers. Judges must demonstrate experience in the DeFi and smart contract space. If you qualify and would like to volunteer as a judge, please join the [C4 Discord](https://discord.gg/EY5dvm3evD)and DM an organizer.
