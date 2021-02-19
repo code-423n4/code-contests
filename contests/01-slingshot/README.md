@@ -9,8 +9,8 @@ Feb 17, 1400 UTC
 **Stop Time**   
 Feb 21, 2359 UTC  
   
-**Judge(s)**
-Zak Cole
+**Judge(s)**  
+Zak Cole  
 [GitHub](https://github.com/zscole)
 
 ## About The Code 
