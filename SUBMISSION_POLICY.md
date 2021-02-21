@@ -35,7 +35,7 @@ In the event that you encounter a critical vulnerability that the sponsor projec
 > Publicly disclosing any information prior to the end of a code competition is grounds for immediate forfeit of award and disqualification from any future C4 events and activities.
 
 # 3. :clipboard: Submitting A Report
-C4 accepts vulnerability reports via submissions@code432n4.com. Reports should be formatted based on the [provided template](SUBMISSION_TEMPLATE.md). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of your report prior to the end of the code contest or within 3 business days, whichever comes first.
+C4 accepts vulnerability reports via submissions@code423n4.com. Reports should be formatted based on the [provided template](SUBMISSION_TEMPLATE.md). Reports may be submitted anonymously. If you share contact information, we will acknowledge receipt of your report prior to the end of the code contest or within 3 business days, whichever comes first.
 
 We do not support PGP-encrypted emails. For particularly sensitive information, please place your submission through the [C4 Discord](https://discord.gg/EY5dvm3evD) by DM'ing a C4 organizer. 
 
