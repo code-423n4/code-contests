@@ -45,7 +45,7 @@ In order to help us triage and prioritize submissions, please ensure that your r
 
 - Consolidate multiple bug findings within a single document.
 
-- Are submitted through email to submissions@code432n4.com and conform to the [provided template](SUBMISSION_TEMPLATE.md).
+- Are submitted through email to submissions@code423n4.com and conform to the [provided template](SUBMISSION_TEMPLATE.md).
 
 - Describe the location the vulnerability was discovered and the potential impact of exploitation.
 
