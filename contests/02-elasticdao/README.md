@@ -22,16 +22,15 @@ layer 2 solution after launch. For this reason, most functions which would be pe
 actually executed by a multisig. This multisig will be the owner of the proxy contracts, the ElasticDAO
 controller, the burner, and the minter.
 
-Code is available at https://github.com/elasticdao/contracts/tree/c657b84469ba33efd8914c7e847830d82cb0f3ca
 Docs are available at https://docs.elasticdao.org
 
 ### How It Works
-`src/core/ElasticDAO.sol` defines the logic for deploying, initializing, summoning, joining, and exiting a DAO. 
-`src/core/ElasticDAOFactory.sol` provides a singular approach for deploying DAOs and is meant to be managed
+`core/ElasticDAO.sol` defines the logic for deploying, initializing, summoning, joining, and exiting a DAO. 
+`core/ElasticDAOFactory.sol` provides a singular approach for deploying DAOs and is meant to be managed
 by the first DAO, ElasticDAO.
-`src/tokens/ElasticGovernanceToken.sol` is a rebasing token that conforms to the ERC20 spec.
+`tokens/ElasticGovernanceToken.sol` is a rebasing token that conforms to the ERC20 spec.
 
-Storage contracts follow a version of the Eternal Storage pattern and are found in `src/models`.
+Storage contracts follow a version of the Eternal Storage pattern and are found in `models`.
 
 As this code conforms to [NatSpec](https://docs.soliditylang.org/en/v0.7.2/natspec-format.html#natspec-format) formatting specifications, lower level details regarding function can be found as comments within the code itself.
 
