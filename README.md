@@ -58,16 +58,20 @@ Bugs are divided into three risk categories:
 For more details regarding scoring, please refer to the [judging criteria](JUDGING_CRITERIA.md) document.
 
 ## Rewards  
-Wardens are awarded shares for bugs discovered, and those shares give the owner a pro rata piece of the pot.  
+Wardens are awarded shares for bugs discovered and those shares give the owner a pro rata piece of the pot.  
   
-Low Risk Bounty Shares  
+**Low Risk Bounty Shares**    
 `1 * (0.9 ^ discovery count) / discovery count`  
   
-Medium Risk Bounty Shares  
+**Medium Risk Bounty Shares**    
 `3 * (0.9 ^ discovery count) / discovery count`  
-
-High Risk Bounty Shares  
+  
+**High Risk Bounty Shares**    
 `10 * (0.9 ^ discovery count) / discovery count`
   
-At the end of the contest, each bounty share is redeemable for:   
+**At the end of the contest, each bounty share is redeemable for:**     
 `Bounty Pot / number of Bounty Shares.`
+
+**Duplicate Submissions**    
+Should the same bug be submitted by multiple Wardens, Judges have the discretion to place these bugs into the same bucket, in which case, the award will be shared among those who submitted.
+
