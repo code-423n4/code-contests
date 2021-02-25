@@ -1,18 +1,23 @@
 # Code Contest 2: ElasticDAO Contracts 
 ## Code Contest Details
-**Pot Size**  
-10 ETH for Vulerabilities
-1 ETH for Gas Improvements (not related to the storage pattern)
+**Pot Size**
+22 ETH TOTAL (~$35,000)  
+20 ETH for Vulerabilities
+2 ETH for Gas Improvements (not related to the storage pattern)
 
 **Start Time**  
-Feb 24, 0000 UTC
+Feb 25, 1600 UTC
 
 **Stop Time**   
-Feb 28, 2359 UTC  
+March 3, 2359 UTC  
   
-**Judge(s)**  
+**Sponsor**  
 LSDan | ElasticDAO
 [GitHub](https://github.com/dmvt)
+
+**Judges**
+Zak Cole
+[GitHub](https://github.com/zscole)
 
 ## About The Code 
 Elastic DAO is a governance protocol that attempts to balance the competing interests between the different participants in a decentralized ecosystem. Elastic DAO achieves this by reducing the overall influence that money and early adopters have in existing DAO governance models.
