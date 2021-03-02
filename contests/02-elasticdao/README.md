@@ -16,7 +16,7 @@ LSDan | ElasticDAO
 [GitHub](https://github.com/dmvt)
 
 **Judges**
-Zak Cole
+Zak Cole  
 [GitHub](https://github.com/zscole)
 
 ## About The Code 
