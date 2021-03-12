@@ -2,6 +2,19 @@
 
 We intend for hackers to look for smart contract vulnerabilities in our system that can lead to loss of funds, locked components or unintended system  behavior.
 
+**Pot Size**
+TBD
+
+**Start Time**  
+TBD
+
+**Stop Time**   
+TBD
+  
+**Sponsor**  
+Liquity
+[GitHub](https://github.com/liquity)
+
 ## Reporting
 
 ### :writing_hand: Reporting a found vulnerability
