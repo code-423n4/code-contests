@@ -48,7 +48,7 @@ Since the goal of each participant is to find any vulnerabilities rather than al
 **Experienced researchers** can showcase their talent in C4 by focusing on their area of expertise and identifying unique exploits for higher rewards. Because everyone who finds a vulnerabilities is compensated from the pool, C4 also enables **beginners** to get paid while they learn and build a reputation within the community.
 
 ## Scoring
-The scoring system has two primary goals: rewarding contestants for finding unique bugs and making the contest resistant to [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack). A secondary goal of the scoring system is to incentivize contestants to form squads and encourage coordination.
+The scoring system has three primary goals: rewarding contestants for finding unique bugs, making the contest resistant to [sybil attacks](https://en.wikipedia.org/wiki/Sybil_attack), and incentivize contestants to form squads and encourage coordination.
 
 Bugs are divided into three risk categories:   
 - Low

@@ -35,7 +35,7 @@ At the end of a given contest period, all reports will be reviewed and categoriz
 Should the same bug be submitted by multiple Wardens, Judges have the discretion to place these bugs into the same bucket, in which case, the award will be shared among those who submitted.
 
 # 3. Scoring
-The scoring system has two primary goals: 
+The scoring system has three primary goals: 
 - Rewarding Wardens for finding unique bugs 
 - Hardening C4 code contests to sybil attacks 
 - Encouraging coordination by incentivizing Wardens to form teams.
