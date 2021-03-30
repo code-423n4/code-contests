@@ -20,7 +20,7 @@ Zak Cole
 ## About The Code
 ### Overview
 Based Loans is a fork of Compound with unique parameterization that enables new functionality in the marketplace.
-The Based Loans protocol is owned and maintained by the community through the Based Loans Ownership ($BLO) token.
+The Based Loans protocol is owned and maintained by the community through the Based Loans Ownership (BLO) token.
 
 ### How It Works
 Overall, Based Loans works the same way as Compound v2 does. However, there are two quite significant changes that could introduce vulnerabilities to the code base:
