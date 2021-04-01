@@ -13,7 +13,7 @@ The following policy conveys C4's preferences in how to submit discovered vulner
   
 When participating in C4 code contests, please contact an organizer in the [C4 Discord](https://discord.gg/EY5dvm3evD) and formally submit any bug bounties to submissions@code423n4.com using the submission form provided in Discord. 
 
-> :shipit: Reports can be submitted at any point prior to stop time for a given contest. The details for each code contest can be found in the [contests](contests/README.md) directory.
+> :shipit: Reports can be submitted at any point prior to stop time for a given contest. The details for each code contest can be found in the contest repo.
 
 # 2. :woman_teacher: Code Contest Guidelines
 Under this policy, code contests covers activities in which you:  
